@@ -1,0 +1,20 @@
+.list-dish {
+  list-style-type: none;
+}
+.list-dish-cont {
+  box-shadow: 5px 5px 5px 5px;
+  border: none;
+  border-radius: 5px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+.non-veg {
+  color: maroon;
+}
+.veg {
+  color: green;
+}
+.dish-img {
+  height: 100px;
+}
